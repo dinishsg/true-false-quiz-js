@@ -1,4 +1,7 @@
-
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black) 
+![Beginner Project](https://img.shields.io/badge/Level-Beginner-brightgreen)
 
 
 # True or False Quiz App
@@ -8,6 +11,7 @@ The app displays questions dynamically, evaluates user answers, and shows the fi
 
 
 ## 🚀 Features
+
 - Dynamic question rendering
 - True / False answer buttons
 - Instant feedback for answers
@@ -16,6 +20,7 @@ The app displays questions dynamically, evaluates user answers, and shows the fi
 
 
 ## 🛠 Tech Stack
+
 - HTML
 - CSS
 - JavaScript (Vanilla JS)
